@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.d0788e40.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.aa50679b.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.aa50679b.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.31422ac6.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.31422ac6.js.map",
+    "static/js/2.d90be13f.chunk.js": "/react-gh-pages/static/js/2.d90be13f.chunk.js",
+    "static/js/2.d90be13f.chunk.js.map": "/react-gh-pages/static/js/2.d90be13f.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.d0788e40.chunk.css.map": "/react-gh-pages/static/css/main.d0788e40.chunk.css.map",
+    "static/js/2.d90be13f.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.d90be13f.chunk.js.LICENSE.txt",
+    "static/media/IC-KIET.ec0f4f58.jpg": "/react-gh-pages/static/media/IC-KIET.ec0f4f58.jpg",
+    "static/media/LPS.6f6c688a.jpg": "/react-gh-pages/static/media/LPS.6f6c688a.jpg",
+    "static/media/Resume-Vishesh (1).43c425f0.pdf": "/react-gh-pages/static/media/Resume-Vishesh (1).43c425f0.pdf",
+    "static/media/App.css": "/react-gh-pages/static/media/bg-light.c04759a4.jpg",
+    "static/media/bootstrap.600c38fe.png": "/react-gh-pages/static/media/bootstrap.600c38fe.png",
+    "static/media/ccc.e7021c1a.png": "/react-gh-pages/static/media/ccc.e7021c1a.png",
+    "static/media/cognizant-logo.b4fb75e7.webp": "/react-gh-pages/static/media/cognizant-logo.b4fb75e7.webp",
+    "static/media/cpp.a4d24ea5.png": "/react-gh-pages/static/media/cpp.a4d24ea5.png",
+    "static/media/css.17b8d4e3.png": "/react-gh-pages/static/media/css.17b8d4e3.png",
+    "static/media/express.e4c63d89.png": "/react-gh-pages/static/media/express.e4c63d89.png",
+    "static/media/html.d84d01eb.png": "/react-gh-pages/static/media/html.d84d01eb.png",
+    "static/media/java.571b0a15.png": "/react-gh-pages/static/media/java.571b0a15.png",
+    "static/media/js.b66d9647.png": "/react-gh-pages/static/media/js.b66d9647.png",
+    "static/media/kiet.cb9012dc.jpg": "/react-gh-pages/static/media/kiet.cb9012dc.jpg",
+    "static/media/mongodb.d420aa02.png": "/react-gh-pages/static/media/mongodb.d420aa02.png",
+    "static/media/node.722e1894.png": "/react-gh-pages/static/media/node.722e1894.png",
+    "static/media/profile-1.4a26c673.jpeg": "/react-gh-pages/static/media/profile-1.4a26c673.jpeg",
+    "static/media/python.7f4ab923.png": "/react-gh-pages/static/media/python.7f4ab923.png",
+    "static/media/react.7b8bd529.png": "/react-gh-pages/static/media/react.7b8bd529.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31422ac6.js",
+    "static/js/2.d90be13f.chunk.js",
+    "static/css/main.d0788e40.chunk.css",
+    "static/js/main.aa50679b.chunk.js"
+  ]
+}
